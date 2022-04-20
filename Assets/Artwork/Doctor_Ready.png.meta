@@ -1,0 +1,1803 @@
+fileFormatVersion: 2
+guid: 7b381832c9559d2419848545e81a3b5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 939663759263124311
+    second: Doctor_Ready_0
+  - first:
+      213: -9015889261879075966
+    second: Doctor_Ready_1
+  - first:
+      213: 246442399639199030
+    second: Doctor_Ready_2
+  - first:
+      213: -427413668334722423
+    second: Doctor_Ready_3
+  - first:
+      213: -3234646635511656597
+    second: Doctor_Ready_4
+  - first:
+      213: 4154955976376596650
+    second: Doctor_Ready_5
+  - first:
+      213: -149366898263207999
+    second: Doctor_Ready_6
+  - first:
+      213: 1171464555846305249
+    second: Doctor_Ready_7
+  - first:
+      213: -4591815148700760005
+    second: Doctor_Ready_8
+  - first:
+      213: 4046501911046072981
+    second: Doctor_Ready_9
+  - first:
+      213: 6534963524320377038
+    second: Doctor_Ready_10
+  - first:
+      213: 6443385138084207468
+    second: Doctor_Ready_11
+  - first:
+      213: -2438145758225704161
+    second: Doctor_Ready_12
+  - first:
+      213: 5699094686050241161
+    second: Doctor_Ready_13
+  - first:
+      213: 6681543627565161306
+    second: Doctor_Ready_14
+  - first:
+      213: 5754736774196209123
+    second: Doctor_Ready_15
+  - first:
+      213: -4785166040812336580
+    second: Doctor_Ready_16
+  - first:
+      213: -7299188133175098400
+    second: Doctor_Ready_17
+  - first:
+      213: -6722861229261086750
+    second: Doctor_Ready_18
+  - first:
+      213: -6366388985267482418
+    second: Doctor_Ready_19
+  - first:
+      213: -5293739976055948649
+    second: Doctor_Ready_20
+  - first:
+      213: 6613121477749257165
+    second: Doctor_Ready_21
+  - first:
+      213: 4118175659973947187
+    second: Doctor_Ready_22
+  - first:
+      213: 8392819625562933292
+    second: Doctor_Ready_23
+  - first:
+      213: -2621692068717819385
+    second: Doctor_Ready_24
+  - first:
+      213: 4304888387682326690
+    second: Doctor_Ready_25
+  - first:
+      213: 7310610923514737963
+    second: Doctor_Ready_26
+  - first:
+      213: -1086591189880292713
+    second: Doctor_Ready_27
+  - first:
+      213: 8446309556105775689
+    second: Doctor_Ready_28
+  - first:
+      213: -6155284740803640078
+    second: Doctor_Ready_29
+  - first:
+      213: 4967871357275640023
+    second: Doctor_Ready_30
+  - first:
+      213: -6785210614919417857
+    second: Doctor_Ready_31
+  - first:
+      213: 7793330661469871396
+    second: Doctor_Ready_32
+  - first:
+      213: 1207777088862310252
+    second: Doctor_Ready_33
+  - first:
+      213: -2208432706117297400
+    second: Doctor_Ready_34
+  - first:
+      213: -3825543731062088762
+    second: Doctor_Ready_35
+  - first:
+      213: -994799359541003460
+    second: Doctor_Ready_36
+  - first:
+      213: -8463055519760154962
+    second: Doctor_Ready_37
+  - first:
+      213: -3902812605423820330
+    second: Doctor_Ready_38
+  - first:
+      213: -4591402290971250269
+    second: Doctor_Ready_39
+  - first:
+      213: -6214580464946335861
+    second: Doctor_Ready_40
+  - first:
+      213: -4170598446315174654
+    second: Doctor_Ready_41
+  - first:
+      213: 7947270923645426657
+    second: Doctor_Ready_42
+  - first:
+      213: 2611356743605615792
+    second: Doctor_Ready_43
+  - first:
+      213: -3186719281144500387
+    second: Doctor_Ready_44
+  - first:
+      213: 4130421135208563305
+    second: Doctor_Ready_45
+  - first:
+      213: 2040620181374945715
+    second: Doctor_Ready_46
+  - first:
+      213: 815109968164198005
+    second: Doctor_Ready_47
+  - first:
+      213: 8225435093891185586
+    second: Doctor_Ready_48
+  - first:
+      213: 954837337254887785
+    second: Doctor_Ready_53
+  - first:
+      213: -651190901711141844
+    second: Doctor_Ready_54
+  - first:
+      213: -7461310538893160832
+    second: Doctor_Ready_55
+  - first:
+      213: -3086280557463459473
+    second: Doctor_Ready_56
+  - first:
+      213: 5172607285540946436
+    second: Doctor_Ready_57
+  - first:
+      213: 1974039675447216414
+    second: Doctor_Ready_58
+  - first:
+      213: -5162444892214889584
+    second: Doctor_Ready_59
+  - first:
+      213: 186948982623586442
+    second: Doctor_Ready_61
+  - first:
+      213: 7459980745721067437
+    second: Doctor_Ready_62
+  - first:
+      213: -5005549943050350631
+    second: Doctor_Ready_63
+  - first:
+      213: -5251169371426145168
+    second: Doctor_Ready_64
+  - first:
+      213: -8805577623135050468
+    second: Doctor_Ready_65
+  - first:
+      213: 1743899807452168962
+    second: Doctor_Ready_66
+  - first:
+      213: -1582455292243893716
+    second: Doctor_Ready_67
+  - first:
+      213: -5654515111271282376
+    second: Doctor_Ready_68
+  - first:
+      213: 171814867948886310
+    second: Doctor_Ready_69
+  - first:
+      213: -6963898389361183880
+    second: Doctor_Ready_70
+  - first:
+      213: -3117842807239635561
+    second: Doctor_Ready_71
+  - first:
+      213: 3782226711434416169
+    second: Doctor_Ready_72
+  - first:
+      213: 1155283287692627818
+    second: Doctor_Ready_73
+  - first:
+      213: -520332431994425726
+    second: Doctor_Ready_74
+  - first:
+      213: 5221743592062776331
+    second: Doctor_Ready_76
+  - first:
+      213: -3923810869908274142
+    second: Doctor_Ready_77
+  - first:
+      213: -4328331643769879598
+    second: Doctor_Ready_78
+  - first:
+      213: 1064850605262155504
+    second: Doctor_Ready_79
+  - first:
+      213: -4234751107385170870
+    second: Doctor_Ready_80
+  - first:
+      213: -1740639381764014119
+    second: Doctor_Ready_81
+  - first:
+      213: 935767898877321957
+    second: Doctor_Ready_82
+  - first:
+      213: 1900160641941642237
+    second: Doctor_Ready_83
+  - first:
+      213: -1885531612662466457
+    second: Doctor_Ready_84
+  - first:
+      213: -8177636245419143096
+    second: Doctor_Ready_85
+  - first:
+      213: 463037562349448287
+    second: Doctor_Ready_86
+  - first:
+      213: 8683267231205305066
+    second: Doctor_Ready_87
+  - first:
+      213: 6279755810496716920
+    second: Doctor_Ready_88
+  - first:
+      213: -2921536731121766461
+    second: Doctor_Ready_89
+  - first:
+      213: -8621682395677750035
+    second: Doctor_Ready_90
+  - first:
+      213: 4272263619708746562
+    second: Doctor_Ready_94
+  - first:
+      213: -7468585375021858045
+    second: Doctor_Ready_100
+  - first:
+      213: 8060774536542031682
+    second: Doctor_Ready_104
+  - first:
+      213: -3835517345684050252
+    second: Doctor_Ready_109
+  - first:
+      213: 6971041049758691582
+    second: Doctor_Ready_112
+  - first:
+      213: -8334888592659387554
+    second: Doctor_Ready_113
+  - first:
+      213: -4961451513938396859
+    second: Doctor_Ready_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doctor_Ready_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 585
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bcf23e53b5a0d00800000000000000
+      internalID: 939663759263124311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 582
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b507b0c7021e280800000000000000
+      internalID: -9015889261879075966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 582
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd6188e0a8b6300800000000000000
+      internalID: 246442399639199030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 582
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98223ce7885811af0800000000000000
+      internalID: -427413668334722423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 578
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4a6cd50a3c13d0800000000000000
+      internalID: -3234646635511656597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 582
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83055527e59a930800000000000000
+      internalID: 4154955976376596650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 580
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc1dfe8975dedf0800000000000000
+      internalID: -149366898263207999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 578
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50e2e8ec0e14010800000000000000
+      internalID: 1171464555846305249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 574
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380f6363789640c0800000000000000
+      internalID: -4591815148700760005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 574
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a27de7c00182830800000000000000
+      internalID: 4046501911046072981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 570
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8304f93bad0ba50800000000000000
+      internalID: 6534963524320377038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 570
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5a8205a08b6950800000000000000
+      internalID: 6443385138084207468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 570
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd45ac957f92ed0800000000000000
+      internalID: -2438145758225704161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_13
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 571
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a475ffb60471f40800000000000000
+      internalID: 5699094686050241161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_14
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 570
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bdb48678c99bc50800000000000000
+      internalID: 6681543627565161306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_15
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 571
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a7d13b9eecdf40800000000000000
+      internalID: 5754736774196209123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 474
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a4e1ab6dca79db0800000000000000
+      internalID: -4785166040812336580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 472
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30a5dc01314ba90800000000000000
+      internalID: -7299188133175098400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 472
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef95abc45993b2a0800000000000000
+      internalID: -6722861229261086750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 468
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01c2fc2fa06a7a0800000000000000
+      internalID: -6366388985267482418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 470
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a76e90a8bd886b0800000000000000
+      internalID: -5293739976055948649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 474
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc330c932f686cb50800000000000000
+      internalID: 6613121477749257165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 466
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f286791f2b62930800000000000000
+      internalID: 4118175659973947187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 462
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280b9d7bf8497470800000000000000
+      internalID: 8392819625562933292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 462
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a8d9d24f0ed9bd0800000000000000
+      internalID: -2621692068717819385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 348
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a852892e290ebb30800000000000000
+      internalID: 4304888387682326690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 346
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25bf23d6e1847560800000000000000
+      internalID: 7310610923514737963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 354
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abd1fd117abe0f0800000000000000
+      internalID: -1086591189880292713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 348
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0ca27ac1573570800000000000000
+      internalID: 8446309556105775689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_29
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 348
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4440de329049aa0800000000000000
+      internalID: -6155284740803640078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_30
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 348
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09044bdac61f440800000000000000
+      internalID: 4967871357275640023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_31
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 342
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa48335e616d1a0800000000000000
+      internalID: -6785210614919417857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_32
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 342
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d521e12f8772c60800000000000000
+      internalID: 7793330661469871396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_33
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 344
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4e7dfcd2e2c010800000000000000
+      internalID: 1207777088862310252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 229
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a17eb151ff0840c0800000000000000
+      internalID: -4591402290971250269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 235
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6e70a2bf76c3d0800000000000000
+      internalID: -3186719281144500387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_45
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 236
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624fd87324325930800000000000000
+      internalID: 4130421135208563305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 234
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c8584e3db15c10800000000000000
+      internalID: 2040620181374945715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 233
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769e49823adf4b00800000000000000
+      internalID: 815109968164198005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_48
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 216
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7a6e33ad962270800000000000000
+      internalID: 8225435093891185586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 232
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020449abeac8c740800000000000000
+      internalID: 5172607285540946436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_58
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 230
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190f8b30a2356b10800000000000000
+      internalID: 1974039675447216414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_59
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 228
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093700be8bf4b58b0800000000000000
+      internalID: -5162444892214889584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_66
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 214
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030f03a2a3933810800000000000000
+      internalID: 1743899807452168962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_67
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 216
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22add0cb4df90ae0800000000000000
+      internalID: -1582455292243893716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_68
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 215
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839c89717702781b0800000000000000
+      internalID: -5654515111271282376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_70
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 216
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873363aaf434b5f90800000000000000
+      internalID: -6963898389361183880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3830f6d4daee3c0800000000000000
+      internalID: -4328331643769879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 125
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea281dbfb17ce00800000000000000
+      internalID: 1064850605262155504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 124
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446d14fd442b35c0800000000000000
+      internalID: -4234751107385170870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_81
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 120
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df76ef54b108d7e0800000000000000
+      internalID: -1740639381764014119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_82
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 121
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ebc432f38cfc00800000000000000
+      internalID: 935767898877321957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1c1f490abe5a10800000000000000
+      internalID: 1900160641941642237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768fb7efcfe35d5e0800000000000000
+      internalID: -1885531612662466457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840de696923338e80800000000000000
+      internalID: -8177636245419143096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_86
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c608da53a0d6600800000000000000
+      internalID: 463037562349448287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 10
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea28c57a89218870800000000000000
+      internalID: 8683267231205305066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_88
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 12
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702ad853ac262750800000000000000
+      internalID: 6279755810496716920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_89
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 8
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2b3f62dd9477d0800000000000000
+      internalID: -2921536731121766461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_90
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 18
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec836f6a81a95880800000000000000
+      internalID: -8621682395677750035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_94
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 20
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b709f60212a4b30800000000000000
+      internalID: 4272263619708746562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_100
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 18
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3030523fb214a5890800000000000000
+      internalID: -7468585375021858045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_104
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 18
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0a11bbbf9ddf60800000000000000
+      internalID: 8060774536542031682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_109
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 16
+        width: 124
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be27a8ab4185cac0800000000000000
+      internalID: -3835517345684050252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_112
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 22
+        width: 56
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0788d86ec1eb060800000000000000
+      internalID: 6971041049758691582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_113
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 20
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be4103cf6845c80800000000000000
+      internalID: -8334888592659387554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_Ready_114
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 18
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b06d8222652bb0800000000000000
+      internalID: -4961451513938396859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
