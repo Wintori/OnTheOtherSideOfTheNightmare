@@ -49,5 +49,5 @@ ___
 
  + При увелечения левела персонаж полностью восстановливает здоровье.
 ___
-## [Ссылка на сборку](https://drive.google.com/file/d/1JkSz0cadvFyN0092Tp-TI6DVSp0e_Hp9/view)
+## [Ссылка на сборку](https://disk.yandex.ru/d/3PLKv532efU0QA)
 
